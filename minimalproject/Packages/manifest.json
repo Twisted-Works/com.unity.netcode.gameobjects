@@ -1,8 +1,12 @@
 {
-    "dependencies": {
-        "com.unity.netcode.gameobjects": "file:../../com.unity.netcode.gameobjects"
-    },
-    "testables": [
-        "com.unity.netcode.gameobjects"
-    ]
+  "dependencies": {
+    "com.unity.ide.rider": "3.0.15",
+    "com.unity.ide.visualstudio": "2.0.16",
+    "com.unity.ide.vscode": "1.2.5",
+    "com.unity.multiplayer.tools": "1.0.0",
+    "com.unity.netcode.gameobjects": "file:../../com.unity.netcode.gameobjects"
+  },
+  "testables": [
+    "com.unity.netcode.gameobjects"
+  ]
 }
